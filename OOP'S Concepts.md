@@ -508,11 +508,10 @@ flowchart LR
 - **Class**: Recipe 🧾 (defines ingredients and steps).
 - **Object**: Dish 🍲 (created using the recipe).
 - Objects bring classes to life by storing data and performing actions!
-<details>
+</details>
 
 <details>
   <summary><strong>How do you create an object of a class in C#?</strong></summary>
-(Due to technical issues, the search service is temporarily unavailable.)
 
 # Creating an Object of a Class in C#
 
@@ -711,4 +710,4 @@ sequenceDiagram
 2. Constructors initialize the object’s state.
 3. Memory is allocated in the **heap**.
 4. Use object initializers for flexible property assignment.
-<details>
+</details>
