@@ -1,1 +1,43 @@
-
+Core Principles of OOP
+Encapsulation
+Abstraction
+Inheritance
+Polymorphism
+Classes and Objects
+Defining classes
+Creating objects
+Constructors and destructors
+Access Specifiers
+Private, Public, and Protected
+Friend functions and classes
+Inheritance
+Single, Multiple, Multilevel, Hierarchical, and Hybrid Inheritance
+Method Overriding
+Virtual functions
+Polymorphism
+Compile-time (Function Overloading, Operator Overloading)
+Runtime (Method Overriding, Virtual Functions)
+Abstraction and Interfaces
+Abstract classes
+Interfaces (in languages like Java and C#)
+Encapsulation
+Getters and Setters
+Properties in C#
+Memory Management
+Stack vs Heap allocation
+Garbage Collection (in Java, C#)
+Manual memory management (in C++)
+Design Patterns in OOP
+Singleton, Factory, Observer, etc.
+SOLID Principles
+Single Responsibility Principle
+Open/Closed Principle
+Liskov Substitution Principle
+Interface Segregation Principle
+Dependency Inversion Principle
+Exception Handling
+Try, Catch, Finally
+Custom Exceptions
+File Handling and Streams
+Reading/Writing files
+Serialization and Deserialization
